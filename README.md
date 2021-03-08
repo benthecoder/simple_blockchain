@@ -39,6 +39,18 @@ npm install
 npm start
 ```
 
+### To run
+
+typescript compiler
+```js
+npm run dev
+```
+
+the code
+```js
+npm run start
+```
+
 ### Example usage
 ``` js
 const satoshi = new Wallet();
