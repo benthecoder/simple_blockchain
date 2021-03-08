@@ -19,7 +19,7 @@ Each user or wallet has a unique public and private key. The public key is like 
 
 Each transaction contains a hash or encrypted representation of the previous transaction and the new owner's public key. The hash is then signed with the previous owner's private key. This makes it possible to validate the chain of ownership without the need to expose the private key. The signature also makes it virtually impossible to alter the transaction after it's been issued.
 
-### Mining
+### Bitcoin Mining
 If someone decides to pay two different people at the same time (double-spending), a system called mining is comes in. Mining allows multiple computers around the world to agree on the appropriate state of the entire system or ledger. Each new transaction is broadcast to all nodes in the network. The transactions are packaged into a block, and miners will expend computing power to validate proof-of-work. They compute a proof for a random problem that is difficult to solve but easy to verify. The first miner who solves is will get a portion of the bitcoin as a reward. The block is then broadcasted back onto other nodes where it is permanently validated on the blockchain (note that only one of the double-spending trasaction will be validated, and this depends on which transaction is validated first by the miners)
 
 ---
