@@ -34,7 +34,7 @@ npm install -D typescript @types/node
 or clone the repo
 
 ``` js
-git clone <this-repo>
+git clone https://github.com/benthecoder/simple_blockchain.git
 npm install
 npm start
 ```
@@ -108,18 +108,6 @@ Chain {
 * [Bitcoin ₿ in 100 Seconds // Build your Own Blockchain by Fireship](https://www.youtube.com/watch?v=qF7dkrce-mQ&t=215s)
 * [github repo](https://github.com/fireship-io/node-blockchain)
 
-## typescript vs javascript
-* [When To Use TypeScript - A Detailed Guide Through Common Scenarios](https://khalilstemmler.com/articles/when-to-use-typescript-guide/)
+---
 
-## Resources for Bitcoin
-* [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
-* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-* [How does Bitcoin work?](https://bitcoin.org/en/how-it-works)
-* [Investopedia](https://www.investopedia.com/blockchain-4689765)
-## Crypto
-* [MIT 15.S12 Blockchain and Money, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
-* [Coinbase learn crpto-basics](https://www.coinbase.com/learn/crypto-basics)
-
-## More videos
-* [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money | Lex Fridman Podcast](https://www.youtube.com/watch?v=3x1b_S6Qp2Q&t=1s)
-* [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
+### Checkout [resources.md](resources.md) for a collection of articles and videos about crypto and blockchain.
